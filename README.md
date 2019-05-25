@@ -9,4 +9,4 @@ $./client.py \ ServerIP \ TypePort=UDP/TCP \ NumberPort$
 server.py:
 $./server.py \ file(0 \ for \ camera) \ ip\_addr \ tcp\_port \ udp\_port$
 
-Where UDP and TCP are the two protocols accepted, and server is able to stream a video or via webcam.
+Where UDP and TCP are the two protocols accepted, and server is able to stream a file vide or through webcam.
